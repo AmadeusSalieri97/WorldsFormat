@@ -27,9 +27,3 @@ P(A \text{ beats } B) = \frac{s_A}{s_A + s_B}
   - Match length (bo1 / bo3 / bo5)  
   - Number of round-robin cycles  
 
-## Example Usage
-Run the main script to compare the three formats:
-
-```bash
-python sweep_formats_vs_headtohead_3formats.py
-
