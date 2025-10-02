@@ -9,7 +9,7 @@ P(A \text{ beats } B) = \frac{s_A}{s_A + s_B}
 
 ## Implemented Formats
 - **Worlds-style**  
-  16-team Swiss stage (best-of-1, to 3 wins / 3 losses) → top-8 single-elimination playoff (best-of-5).  
+  16-team Swiss stage (best-of-1, to 3 wins / 3 losses) → top-8 single-elimination playoff (best-of-5).  Caveat: Doesn't use bo3 for elimination/qualification games. 
 - **Double Elimination**  
   Supports both 8-team and 16-team double-elimination brackets (best-of-5, single Grand Final).  
 - **Round Robin**  
